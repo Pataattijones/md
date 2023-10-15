@@ -42,8 +42,8 @@ Otsikoiden kokoa voi muokata lisäämällä # - merkin otsikon eteen:
 
 - Well, do I have [the website for you][]!
 
-[see something fun]: www.zombo.com
-[the website for you]: www.stumbleupon.com
+[see something fun]: https://www.zombo.com
+[the website for you]: https://www.stumbleupon.com
 
 ## Kuvat
 
