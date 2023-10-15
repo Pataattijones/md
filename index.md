@@ -30,11 +30,11 @@ Otsikoiden kokoa voi muokata lisäämällä # - merkin otsikon eteen:
 
 ## Linkit.
 #### Inline link:
-- [Search for it.](www.google.com)
+- [Search for it.](https://www.google.com)
 
 - [You're **really, really** going to want to see this.](www.dailykitten.com)
 
-- #### The Latest News from [the BBC](www.bbc.com/news)
+- #### The Latest News from [the BBC](https://www.bbc.com/news)
 
 #### Reference link
 
