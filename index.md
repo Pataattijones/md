@@ -95,7 +95,8 @@ Listaan voi myös laittaa linkkejä, lihavointeja ja kursivoitua tekstiä:
 
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
-* Dahlia (_Coreopsideae Dahlia_)
+* Dahlia (_Coreopsideae Dahlia_) 
+
 ___
 
 * Calculus
@@ -119,7 +120,8 @@ ______
  
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
-  ## Paragraphs
+   
+ ## Paragraphs
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
