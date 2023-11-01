@@ -97,7 +97,7 @@ Listaan voi myös laittaa linkkejä, lihavointeja ja kursivoitua tekstiä:
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_) 
 
-___
+______
 
 * Calculus
   * A professor
@@ -121,7 +121,7 @@ ______
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
    
- ## Paragraphs
+Paragraphs
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
